@@ -1,5 +1,25 @@
 # About Me:
-I am a Information Technology graduate student with a passion for Full Stack Web Development and Cloud Computing. I am excited to share my work and collaborate with others on GitHub. My projects focus on exploring and implementing various machine learning techniques, as well as analyzing and visualizing large datasets. I am always open to feedback and suggestions, so please feel free to reach out and connect with me on GitHub. I look forward to collaborating with the community and learning from others in the field.<br><br>
+With a strong foundation in design, integration, and problem-solving, I excel at developing scalable and optimized full-stack applications. Proficient in various back-end technologies, including Go, Python, and Java, and skilled in front-end technologies such as React and Angular, my expertise spans multiple design patterns and architectures, encompassing serverless, hybrid, and microservices-based models. Additionally, I am highly skilled at creating application logs, debugging, and automating testing and CI/CD pipelines.
+
+Currently pursuing a DevOps Engineer internship at Copart Inc., I bring a solid foundation in software development with 3 years of hands-on work experience in Java and React.
+
+Passionate about exploring new technologies and thriving on challenging projects.
+
+Technical Skills:
+
+• Languages: C/C++, Python, Java, C#, JavaScript, TypeScript
+• Databases: MySQL, MongoDB
+• Version Control: Git, GitHub
+• CI/CD: Jenkins
+• Containerization: Docker, Kubernetes
+• Cloud Services: AWS, Azure
+• Auto Remediation: Stack Storm
+• DevOps Methodologies: Agile, Scrum
+
+Contact Information:
+
+E-Mail: vamsikrish9298@gmail.com
+Phone: +1 (214) 872 0146<br><br>
 
 
 ## 🌐 Socials:
