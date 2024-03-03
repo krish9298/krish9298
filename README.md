@@ -7,7 +7,7 @@ Passionate about exploring new technologies and thriving on challenging projects
 
 Technical Skills:
 
-• Languages: C/C++, Python, Java, C#, JavaScript, TypeScript
+• Languages: Go, C/C++, Python, Java, C#, JavaScript, TypeScript
 • Databases: MySQL, MongoDB
 • Version Control: Git, GitHub
 • CI/CD: Jenkins
