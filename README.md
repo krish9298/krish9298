@@ -1,7 +1,7 @@
 # About Me:
-With a strong foundation in design, integration, and problem-solving, I excel at developing scalable and optimized full-stack applications. Proficient in various back-end technologies, including Go, Python, and Java, and skilled in front-end technologies such as React and Angular, my expertise spans multiple design patterns and architectures, encompassing serverless, hybrid, and microservices-based models. Additionally, I am highly skilled at creating application logs, debugging, and automating testing and CI/CD pipelines.
+With a strong foundation in design, integration, and problem-solving, I excel at developing scalable and optimized applications. Proficient in various back-end technologies, including Go, Python, and Java, and skilled in front-end technologies such as React and Angular, my expertise spans multiple design patterns and architectures, encompassing serverless, hybrid, and microservices-based models. Additionally, I am highly skilled at creating application logs, debugging, and automating testing and CI/CD pipelines.
 
-Currently pursuing a DevOps Engineer internship at Copart Inc., I bring a solid foundation in software development with 3 years of hands-on work experience in Java and React.
+Currently pursuing a Engineer Intern at Copart Inc., I bring a solid foundation in software development with 3 years of hands-on work experience in Java, TypeScript, Angular, React.
 
 Passionate about exploring new technologies and thriving on challenging projects.
 
